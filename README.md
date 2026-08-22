@@ -93,4 +93,6 @@ Implemented (more than the required minimum of two):
 
 ## Approximate Time Spent
 
-_[Fill in based on your actual work: e.g. ~6.5 hours across planning, implementation, and README/testing.]_
+~3.25 hours — approximately 2h 45m for feature implementation (listing, 
+filters, details page, add-product form, card/table view toggle) and 
+30m for testing, commit, and deployment.
