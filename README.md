@@ -89,7 +89,6 @@ Implemented (more than the required minimum of two):
 
 - Sorting is page-local rather than across the full filtered dataset (see API Integration Notes above).
 - No automated tests were added (listed as an optional bonus item, deprioritised in favour of completing all core requirements).
-- No dark/light theme toggle.
 - No `localStorage` persistence for favourites/added products — they reset on a full page reload.
 
 ## Approximate Time Spent
